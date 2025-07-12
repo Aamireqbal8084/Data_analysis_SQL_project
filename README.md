@@ -64,3 +64,10 @@ This project is licensed under the [MIT License](LICENSE).
 
 *Aamir Eqbal*  
 Feel free to connect via GitHub or LinkedIn for feedback or collaboration.
+
+
+
+## Screenshots/Demo
+https://github.com/Aamireqbal8084/Data_analysis_SQL_project/blob/main/Screenshots/Dashboard(Pg-1)Screenshot.png
+https://github.com/Aamireqbal8084/Data_analysis_SQL_project/blob/main/Screenshots/Dashboard(Pg-2)Screenshot.png
+https://github.com/Aamireqbal8084/Data_analysis_SQL_project/blob/main/Screenshots/My%20SQL%20Queries%20Screenshot.png
