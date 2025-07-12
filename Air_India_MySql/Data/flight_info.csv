@@ -1,0 +1,21 @@
+Flight_No,Airline,Aircraft_Type,Departure_Time,Arrival_Time,Duration,Status
+AI202,Air India,Boeing 787,10:00 AM,12:30 PM,2h 30m,On Time
+AI191,Air India,Boeing 777,11:45 AM,08:00 PM,8h 15m,On Time
+AI439,Air India,Airbus A320,06:30 AM,08:30 AM,2h,Delayed
+AI985,Air India,Boeing 737,02:00 PM,05:30 PM,3h 30m,Cancelled
+AI126,Air India,Airbus A321,08:45 AM,11:15 AM,2h 30m,On Time
+AI101,Air India,Boeing 777,09:00 AM,05:00 PM,8h,On Time
+AI661,Air India,Airbus A320,04:00 PM,06:00 PM,2h,Delayed
+AI933,Air India,Boeing 737,01:15 PM,04:45 PM,3h 30m,On Time
+AI380,Air India,Boeing 747,07:00 AM,02:00 PM,7h,Cancelled
+AI852,Air India,Airbus A321,10:30 AM,01:00 PM,2h 30m,On Time
+AI787,Air India,Airbus A320,05:30 PM,07:45 PM,2h 15m,On Time
+AI450,Air India,Boeing 737,06:00 AM,08:00 AM,2h,On Time
+AI312,Air India,Boeing 787,09:30 AM,12:00 PM,2h 30m,On Time
+AI408,Air India,Airbus A320,03:00 PM,05:30 PM,2h 30m,Delayed
+AI900,Air India,Airbus A330,01:45 PM,06:00 PM,4h 15m,On Time
+AI606,Air India,Boeing 737,11:00 AM,01:30 PM,2h 30m,On Time
+AI777,Air India,Boeing 787,12:15 PM,03:00 PM,2h 45m,On Time
+AI320,Air India,Airbus A320,02:30 PM,04:30 PM,2h,Delayed
+AI999,Air India,Airbus A321,08:00 AM,10:30 AM,2h 30m,On Time
+AI150,Air India,Boeing 777,10:00 PM,06:00 AM,8h,On Time

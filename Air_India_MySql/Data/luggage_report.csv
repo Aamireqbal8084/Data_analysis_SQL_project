@@ -1,0 +1,26 @@
+Report_ID,Passenger_ID,Flight_No,Report_Date,Description,Status,Lost_Item_Tag
+LR001,P020,AI106,2025-06-20,Black backpack,Escalated,43bdd525-9401-44bb-87ad-b6380b3ad3fd
+LR002,P024,AI114,2025-06-03,Black backpack,Resolved,e83df1f3-84bb-4f99-b244-7100527dd4d1
+LR003,P025,AI110,2025-06-07,Blue duffle bag,Pending,b17250d9-5c5d-4d44-b6aa-e39554513b44
+LR004,P004,AI120,2025-06-15,Black suitcase,Pending,f1b454e7-7767-4ac3-832d-2a3c1ea940c2
+LR005,P005,AI109,2025-06-09,Red backpack,Resolved,5c40e8f3-c9ec-4415-8642-90c423f02af7
+LR006,P008,AI117,2025-06-16,Black suitcase,Pending,f21d5a65-5752-476b-8b13-865c65a4571a
+LR007,P024,AI115,2025-06-11,Black backpack,Resolved,3421206b-5711-44cd-95dd-c99988b2ee1f
+LR008,P015,AI115,2025-06-13,Black suitcase,Resolved,6298d38d-0dd3-425e-bf39-4a709a772905
+LR009,P009,AI106,2025-06-03,Black suitcase,Pending,dd46594b-1059-4ec1-8060-2e4a1081d9e0
+LR010,P015,AI111,2025-06-16,Black suitcase,Resolved,1a92c90f-bdec-4e25-ae62-0ca30ec4ce6f
+LR011,P006,AI105,2025-06-08,Brown suitcase,Resolved,e7aca5d6-31db-47b8-a199-6eca2b06f32c
+LR012,P020,AI113,2025-06-20,Black suitcase,Resolved,35676d49-ef76-4c3d-aa33-b5e0b369fc30
+LR013,P016,AI107,2025-06-03,Brown suitcase,Escalated,34b3aa53-0ac0-4668-9dcd-76c964d849f4
+LR014,P017,AI116,2025-06-19,Blue duffle bag,Pending,9ba3011d-f4f0-49db-b7d8-c287b6b4c90c
+LR015,P020,AI107,2025-06-04,Black backpack,Resolved,3e172095-3615-43e7-a2d9-c1e3b7ab45c1
+LR016,P019,AI106,2025-06-16,Brown suitcase,Escalated,91301245-94c9-424a-8586-caae431c382a
+LR017,P018,AI114,2025-06-11,Brown suitcase,Resolved,c1402682-bd56-4590-8645-da4e5ca86f12
+LR018,P025,AI117,2025-06-09,Red suitcase,Resolved,dc21fad0-1b47-45b7-b379-32c3a2789ee8
+LR019,P019,AI108,2025-06-04,Red suitcase,Escalated,f5fb5b09-bd82-4a2b-9b03-aa16c53c165c
+LR020,P001,AI119,2025-06-21,Red suitcase,Pending,613b83ca-1e3b-4ec7-b797-07cc81878550
+LR021,P006,AI115,2025-06-04,Black backpack,Escalated,2ed0ac25-400d-4869-b801-4e1c4087a645
+LR022,P002,AI117,2025-06-11,Blue duffle bag,Escalated,df8882f8-78e2-41bb-9e00-38c2656485fc
+LR023,P015,AI101,2025-06-17,Black backpack,Pending,24259c28-66a1-4f72-862a-713edf19f7eb
+LR024,P016,AI120,2025-06-14,Blue duffle bag,Escalated,b16dad25-feb8-46e9-8af1-3d050db5738b
+LR025,P024,AI117,2025-06-14,Red backpack,Escalated,1da5ee86-a869-4aac-919e-d5c6a867ffe1

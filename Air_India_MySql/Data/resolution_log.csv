@@ -1,0 +1,21 @@
+Resolution_ID,Report_ID,Team_ID,Action_Taken,Resolution_Date,Resolution_Status,Follow_Up
+R001,LR025,T03,Notified customs team,2025-06-16,Not Found,No
+R002,LR014,T02,Checked CCTV at terminal,2025-06-17,Pending,No
+R003,LR023,T03,Located in lost & found,2025-06-05,Not Found,Yes
+R004,LR012,T01,Sent follow-up mail,2025-06-03,Not Found,Yes
+R005,LR017,T04,Checked CCTV at terminal,2025-06-09,Found,No
+R006,LR024,T02,Notified customs team,2025-06-07,Pending,No
+R007,LR022,T01,Notified customs team,2025-06-19,Not Found,Yes
+R008,LR012,T04,Filed complaint,2025-06-17,Compensation,No
+R009,LR015,T03,Delivered to home,2025-06-13,Compensation,Yes
+R010,LR022,T01,Notified customs team,2025-06-15,Found,No
+R011,LR006,T04,Notified customs team,2025-06-02,Compensation,Yes
+R012,LR003,T04,Notified customs team,2025-06-06,Compensation,No
+R013,LR013,T02,Escalated to regional manager,2025-06-10,Not Found,No
+R014,LR019,T02,Checked CCTV at terminal,2025-06-11,Compensation,No
+R015,LR012,T05,Filed complaint,2025-06-05,Pending,No
+R016,LR020,T01,Escalated to regional manager,2025-06-13,Compensation,Yes
+R017,LR021,T01,Located in lost & found,2025-06-05,Compensation,No
+R018,LR003,T05,Contacted Baggage section,2025-06-19,Pending,Yes
+R019,LR009,T05,Called passenger for report,2025-06-18,Not Found,Yes
+R020,LR012,T02,Notified customs team,2025-06-22,Found,No

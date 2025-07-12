@@ -1,0 +1,21 @@
+Airport_ID,City,Airport_Name,IATA_Code,Terminal,Runways,Status
+AP001,Delhi,Indira Gandhi Int'l Airport,DEL,T3,3,Operational
+AP002,Mumbai,Chhatrapati Shivaji Maharaj Airport,BOM,T2,2,Operational
+AP003,Chennai,Chennai International Airport,MAA,T4,2,Operational
+AP004,Bengaluru,Kempegowda International Airport,BLR,T1,2,Operational
+AP005,Hyderabad,Rajiv Gandhi International Airport,HYD,T1,2,Operational
+AP006,London,Heathrow Airport,LHR,T5,2,Operational
+AP007,Dubai,Dubai International Airport,DXB,T3,2,Operational
+AP008,New York,John F. Kennedy Int'l Airport,JFK,T4,4,Operational
+AP009,Goa,Goa International Airport,GOI,T1,1,Operational
+AP010,Kochi,Cochin International Airport,COK,T1,1,Operational
+AP011,Singapore,Changi Airport,SIN,T2,2,Operational
+AP012,Pune,Pune International Airport,PNQ,T1,1,Operational
+AP013,Kolkata,Netaji Subhas Chandra Bose Airport,CCU,T2,2,Operational
+AP014,Ahmedabad,Sardar Vallabhbhai Patel Airport,AMD,T1,2,Operational
+AP015,Jaipur,Jaipur International Airport,JAI,T2,1,Operational
+AP016,Lucknow,Chaudhary Charan Singh Airport,LKO,T1,1,Operational
+AP017,Indore,Devi Ahilya Bai Holkar Airport,IDR,T1,1,Operational
+AP018,Patna,Jay Prakash Narayan Int'l Airport,PAT,T1,1,Under Renovation
+AP019,Amritsar,Sri Guru Ram Dass Jee Int'l Airport,ATQ,T1,1,Operational
+AP020,Surat,Surat International Airport,STV,T1,1,Operational

@@ -1,0 +1,21 @@
+Passenger_ID,Name,Age,Gender,Travel_Class,Source,Destination,Flight_No,Seat_No,Booking_Date,Travel_Date,Ticket_Fare (₹),Status
+AI1001,Rajesh Khanna,42,Male,Economy,Delhi,Mumbai,AI202,18A,2025-06-01,2025-06-15,5500,Confirmed
+AI1002,Sneha Mehta,30,Female,Business,Mumbai,London,AI191,2C,2025-06-05,2025-06-20,72500,Confirmed
+AI1003,Amir Siddiqui,25,Male,Economy,Delhi,Chennai,AI439,23B,2025-06-03,2025-06-17,4800,Confirmed
+AI1004,Kavita Sharma,34,Female,Premium Eco,Bengaluru,Dubai,AI985,11D,2025-06-02,2025-06-16,15600,Cancelled
+AI1005,Mohit Patel,28,Male,Economy,Hyderabad,Delhi,AI126,19F,2025-06-04,2025-06-19,5100,Confirmed
+AI1006,Farheen Akhtar,29,Female,Business,Delhi,New York,AI101,1A,2025-06-06,2025-06-21,94000,Confirmed
+AI1007,Rohan Verma,38,Male,Economy,Mumbai,Goa,AI661,24C,2025-06-08,2025-06-22,4100,Confirmed
+AI1008,Divya Iyer,33,Female,Premium Eco,Kochi,Dubai,AI933,10B,2025-06-07,2025-06-23,14200,Confirmed
+AI1009,Tarun Bansal,45,Male,Business,Delhi,Singapore,AI380,3D,2025-06-09,2025-06-24,61000,Confirmed
+AI1010,Neha Joshi,26,Female,Economy,Pune,Delhi,AI852,20E,2025-06-01,2025-06-15,4600,Confirmed
+AI1011,Iqbal Khan,50,Male,Business,Delhi,Riyadh,AI925,1B,2025-06-03,2025-06-19,59000,Confirmed
+AI1012,Anjali Deshmukh,31,Female,Economy,Mumbai,Delhi,AI802,27A,2025-06-05,2025-06-18,4800,Confirmed
+AI1013,Nitin Rao,37,Male,Premium Eco,Bengaluru,London,AI177,9F,2025-06-06,2025-06-21,38500,Confirmed
+AI1014,Riya Kapoor,22,Female,Economy,Chennai,Delhi,AI432,25C,2025-06-10,2025-06-25,5300,Confirmed
+AI1015,Harsh Sinha,40,Male,Economy,Kolkata,Mumbai,AI772,22D,2025-06-11,2025-06-26,4700,Cancelled
+AI1016,Sana Rehman,29,Female,Business,Hyderabad,Jeddah,AI966,4A,2025-06-02,2025-06-17,61500,Confirmed
+AI1017,Aditya Narayan,35,Male,Premium Eco,Delhi,Frankfurt,AI121,8E,2025-06-07,2025-06-22,45500,Confirmed
+AI1018,Tanvi Arora,24,Female,Economy,Mumbai,Jaipur,AI612,26B,2025-06-03,2025-06-18,3900,Confirmed
+AI1019,Suraj Thakur,48,Male,Business,Delhi,Toronto,AI187,2B,2025-06-04,2025-06-20,97500,Confirmed
+AI1020,Priya Nair,27,Female,Economy,Trivandrum,Mumbai,AI668,21F,2025-06-09,2025-06-24,4600,Confirmed
